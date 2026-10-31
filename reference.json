@@ -1,0 +1,33 @@
+{
+  "title": "Creative digital experience \u2014 reference study",
+  "creator": "Jerry the Web Dev",
+  "source": "https://www.facebook.com/reel/3437541809740772",
+  "width": 480,
+  "height": 270,
+  "cols": 8,
+  "frames": 47,
+  "chapters": [
+    {
+      "progress": 0,
+      "label": "Opening"
+    },
+    {
+      "progress": 0.14,
+      "label": "Digital experience"
+    },
+    {
+      "progress": 0.3,
+      "label": "The immersive state"
+    },
+    {
+      "progress": 0.64,
+      "label": "Gallery"
+    },
+    {
+      "progress": 0.8,
+      "label": "Connected forms"
+    }
+  ],
+  "mode": "frames",
+  "limitation": "The source records a screen. Cropping, perspective, motion blur and clipped page edges remain. This reproduces recorded visuals rather than recovering the original application."
+}
